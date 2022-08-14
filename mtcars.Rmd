@@ -1,0 +1,25 @@
+---
+title: "mtcars"
+output: html_document
+date: "2022-08-13"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## SQL VS dpylr (Connections)
+```{r}
+library(RSQLite)
+library(tidyverse)
+conn <- dbConnect(RSQLite::SQLite(), "mtcars.sqlite3")
+dbListTables(conn)
+mtcars <- read.csv("mtcars.csv")
+```
+## Select Data
+```{r}
+#dbGetQuery(conn, "SELECT * FROM mtcars")
+mtcars %>% select(mpg)
+
+```
+
