@@ -1,0 +1,8 @@
+In this file the first two lines have some
+unwanted information. Lets try t skip these lines.
+roll_number name major cgpa
+1 james computer 3.9
+2 robert math 3.65
+3 john statistics 3.50
+4 mary math 3.85
+
