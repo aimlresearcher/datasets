@@ -1,0 +1,5 @@
+ID	Name	Department	Salary
+1	USMAN	Sales	75000
+2	AHMAD	Marketing	80000
+3	YASIN	Engineering	78000
+4	BAKAR	Management	83000
