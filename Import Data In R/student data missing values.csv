@@ -1,0 +1,7 @@
+ID,Name,Department,Salary
+roll_number, name, major, cgpa
+none, james, computer, X
+2, robert, X, 3.65
+3, john, statistics 3.50
+4, empty, math, 3.85
+
