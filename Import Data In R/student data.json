@@ -1,0 +1,6 @@
+[
+	{"roll_number":1, "name":"james", "major":"computer", "cgpa":3.9},
+	{"roll_number":2, "name":"robert", "major":"math", "cgpa":3.65},
+	{"roll_number":3, "name":"john", "major":"statistics", "cgpa":3.50},
+	{"roll_number":4, "name":"mary", "major":"math", "cgpa":3.85}
+]
