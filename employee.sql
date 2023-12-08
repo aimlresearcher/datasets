@@ -1,3 +1,5 @@
+CREATE DATABASE test;
+USE test;
 CREATE TABLE employee (
     employee_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50),
