@@ -1,0 +1,37 @@
+COMSATS,UOL,UMT
+Check Faculty Requirements,Prepare available vacancy list,analyse faculty requirements
+Send Notification to Department,Send list for approval,inform respective department
+Check Vacancies,Allow hiring against available vacancies,check vacancies
+notify to human resource department,Prepare advertisement,inform HR
+Send Vacancies List to Human resource Department,Publish Advertisement,forward vacancies list to HR
+Attach Justification for List,Read Advertisement,attach justification for vacancy
+Evaluate Departmental Justification,Send curriculum vitae,consider justification
+Prepare Draft advertisement,Take Curriculum Vitae,prepare advertisement draft
+Send draft to Registrar,Check for General Assessment test,publish advertisement on social media
+Approve Draft from Establishment Division,Apply for test,receive applications for available vacancies
+Publish Advertisement,Take test,analyse basic vacancy requirements
+Receive Applications from Candidates,check application submission date,consider that applicant
+Check for General Assessment test,Reject application,notify applicant about missing requirements
+Register for test,shortlist Candidates on basic Criteria,receive alert
+Appear in test,Check test scored percentage,check basic requirements
+check due date for application submission,Reject Applicant,fulfilled missing requirements
+Reject application,call for interview,send complete documents to HR
+shortlist Applications on basic Criteria,Receive interview call,verify requirements
+check scored percentage,Conduct Departmental Interview,check date of application submission
+Send application for further Processing,Send Shortlisted Applications,reject applicant
+Reject Applicant,Receive shortlisted candidate list,shortlist applications on basic criteria
+Close Application for that candidate,make selection committee,conduct test on the basis of available vacancies
+Send Applications of Eligible Candidates to Department,Read file,reject applications
+Conduct Departmental Interview,check need of recruitment,forward applications for further processing
+Send Shortlisted Applications,Postponed request of recruitment,send applications of eligible candidate to department
+Compare number of Shortlisted Candidates with Vacancies,Inform Department,conduct departmental interview
+Further Shortlist best Applicants,Ask candidates to wait,send shortlisted applicants list
+Proceed to the Final Selection,Proceed to the Final Selection,compare number of shortlisted candidate with available vacancies
+Prepare agenda for Final Interview,Ask for Final Interview,further shortlist applicants
+Call Shortlisted Candidates for Final Interview,call Candidates for Final Interview,proceed to final selection
+Conduct Final Interview,Conduct Final Interview,prepare plan for final interview
+Prepare Minutes of Meeting,Decide pay and other allowances,call shortlisted applicant for final interview
+Approve minutes of Meeting,Prepare Minutes of Meeting,conduct final interview
+Issue Appointment Letters to Candidates,Approve minutes of Meeting,generate appointment letters to candidates
+Hire Candidate,Issue Appointment Letters to Candidates,hire candidate
+Reject candidate application,Hire Candidate,
